@@ -1,0 +1,54 @@
+id,nome,prezzo,categoria,assemblato,soglia
+5382198,"Esselunga Bio, kiwi biologici ",4.98,Frutta fresca,False,50
+5385170,"Esselunga Bio, meloni biologici ",2.84,Frutta fresca,False,120
+5381634,"Lattuga Iceberg, ",1.68,Insalate e radicchi,False,140
+5391756,"Esselunga Bio, peperoni rossi biologici ",4.98,Verdura fresca,False,190
+5837556,"Esselunga, carciofi al vapore 250 g",2.88,Verdura cotta,False,170
+5386477,"Esselunga, filetto di platessa ",19.9,Pesce,False,100
+5735522,"Esselunga, Sushi mix 4 porzioni 860 g",25.5,Sushi,False,120
+5772507,"Smart, Fish Burger salmone 240 g",3.59,Fishburger,False,70
+5745336,"Esselunga Hamburgeria, bovino adulto di razza piemontese hamburger classici 250 g",4.49,Hamburgeria,False,80
+5534682,"Amadori, hamburger ricetta classica 204 g",2.89,Hamburgeria,False,180
+5428255,"Esselunga Naturama, petto di pollo a fette allevato senza uso di antibiotici ",12.85,Pollame,False,100
+5388593,"Esselunga, pollo durelli ",3.95,Pollame,False,70
+5419992,"Esselunga Top, burro 100% italiano 250 g",2.69,Burro,False,150
+5377561,"Esselunga Bio, 6 uova fresche biologiche",2.19,Uova,False,120
+5520562,"Aia, Pasta gialla 6 uova fresche medie italiane allevate a terra",2.45,Uova,False,90
+5561086,"Esselunga Equilibrio, grissinetti integrali conf. 5x50 g",1.29,Grissini,False,60
+5383546,Focaccine ,12.9,Panetteria,False,110
+5410134,Esselunga 4 Croissant alla marmellata 300 g,3.79,Pasticceria,False,160
+5722897,"Esselunga, insalata di pollo ",13.99,Insalate,False,60
+5527406,"Esselunga Top, lasagne sfoglia rustica 250 g",1.29,Pasta fresca,False,180
+5515756,"Esselunga, pasta sfoglia rettangolare 230 g",1.29,Pasta fresca,False,130
+5731069,"Cucciolone, l'Originale classico 6 pezzi 480 g",3.29,Gelati,False,80
+5386365,"Esselunga Bio, pisellini primizia biologiche surgelati 750 g",2.79,Verdura,False,70
+5398136,"Cameo, Pizza Regina Alta Margherita surgelata 370 g",2.45,Pizze e torte salate,False,80
+5389264,"Kinder, Bueno white conf. 3x39 g",1.99,Snack dolci,False,60
+5714217,"Popz, Microwave popcorn salati conf. 4x85 g",3.68,Patatine e Snack salati,False,170
+5513931,"Esselunga, Crostatine alla fragola 8 pezzi 368 g",1.74,Merendine,False,170
+5641023,"Mentadent, Vertical Expert Sensitive spazzolino extra soft",2.49,Spazzolini,False,80
+5402283,"Sunsilk, Liscio perfetto shampoo 400 ml",3.5,Cura Capelli,False,170
+5543413,"Gillette, Blue3 rasoio 3 lame usa e getta 12 pezzi + 4 omaggio",8.9,Rasatura e depilazione,False,180
+5392341,"Ace, candeggina classica 4 l",2.39,Detersivi e pulizia casa,False,70
+5384648,"Vulcano, Spirali Vulcano extra 10 pezzi",1.65,Giardinaggio ed insetticidi,False,190
+5396751,"Foxy, Cartapaglia asciugatutto 2 rotoloni",2.15,Carta e monouso,False,160
+5388822,"Monocromo Quaderno maxi formato A4, rigatura 1R senza margini, 100 gr, colori assortiti",2.59,Quaderni,False,160
+5402665,"Staedtler Ball 432 Penne a sfera colorate, 10 pezzi",4.89,Penne a Sfera e Gel,False,50
+5402618,"Giotto Acquerelli in astuccio con pennello, 12 colori",3.09,Tempere e Album da disegno,False,50
+5400006,"Esselunga, riso Vialone Nano 1 kg",2.49,Riso bianco,False,70
+5385204,"Cetrioli, ",1.3,Altre verdure,False,80
+5383211,"Esselunga, tonno all'olio d'oliva conf. 4x160 g",6.99,Tonno in olio d'oliva,False,90
+5421684,"Cerreto, I Semi semi di zucca biologici 200 g",4.48,Semi e condimenti,False,80
+5382651,"Esselunga, filetto di salmone al Kg",24.15,Semi e condimenti,False,80
+5398830,"Esselunga, maionese 500 ml",1.57,Maionese,False,190
+5383776,"Esselunga Bio, aceto di mele biologico 75 cl",2.59,Aceto e limone,False,110
+5381668,"Eridania, zucchero bianco 1 kg",0.89,Zucchero,False,150
+5391406,"Esselunga, sale iodato fino 1 kg",0.5,Sale,False,150
+5409915,"Esselunga Bio, farina tipo 00 di grano tenero biologica 1 kg",1.09,Farina,False,80
+5397815,"Esselunga, Dolomiti naturale conf. 6x1,5 l",1.74,Acqua naturale,False,200
+5424211,"Esselunga Bio, olio extra vergine di oliva 100% italiano 750 ml",9.49,Olio extra-vergine,False,170
+5377809,"Lievital, lievito fresco per pizza conf. 2x25 g",0.28,Lieviti,False,60
+5574707,"Esselunga, latte fresco intero 100% italiano alta qualitÃ  1 l",1.19,Latte fresco,False,70
+5574707,"Esselunga, latte fresco intero 100% italiano alta qualitÃ  1 l",1.19,Latte fresco,False,70
+5429355,"Esselunga Bio, confettura extra di albicocche biologica 340 g",2.59,Marmellate,False,50
+5400042,"Sedano verde, ",1.68,Altre verdure,False,120

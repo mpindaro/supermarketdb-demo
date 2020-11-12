@@ -1,0 +1,54 @@
+Categoria,ID,Nome,Prezzo,Reparto,Soglia
+Frutta fresca,5382198,"Esselunga Bio, kiwi biologici ",4.98,Frutta e verdura,50
+Frutta fresca,5385170,"Esselunga Bio, meloni biologici ",2.84,Frutta e verdura,120
+Insalate e radicchi,5381634,"Lattuga Iceberg, ",1.68,Frutta e verdura ,140
+Verdura fresca,5391756,"Esselunga Bio, peperoni rossi biologici ",4.98,Frutta e verdura,190
+Verdura cotta,5837556,"Esselunga, carciofi al vapore 250 g",2.88,Frutta e verdura,170
+Pesce,5386477,"Esselunga, filetto di platessa ",19.9,Pesce e sushi,100
+Sushi,5735522,"Esselunga, Sushi mix 4 porzioni 860 g",25.5,Pesce e sushi,120
+Fishburger,5772507,"Smart, Fish Burger salmone 240 g",3.59,Pesce e sushi,70
+Hamburgeria,5745336,"Esselunga Hamburgeria, bovino adulto di razza piemontese hamburger classici 250 g",4.49,Macelleria,80
+Hamburgeria,5534682,"Amadori, hamburger ricetta classica 204 g",2.89,Macelleria,180
+Pollame,5428255,"Esselunga Naturama, petto di pollo a fette allevato senza uso di antibiotici ",12.85,Macelleria,100
+Pollame,5388593,"Esselunga, pollo durelli ",3.95,Macelleria,70
+Burro,5419992,"Esselunga Top, burro 100% italiano 250 g",2.69,"Latticini, salumi e formaggi",150
+Uova,5377561,"Esselunga Bio, 6 uova fresche biologiche",2.19,"Latte, Uova e Burro",120
+Uova,5520562,"Aia, Pasta gialla 6 uova fresche medie italiane allevate a terra",2.45,"Latte, Uova e Burro",90
+Grissini,5561086,"Esselunga Equilibrio, grissinetti integrali conf. 5x50 g",1.29,Pane e pasticceria,60
+Panetteria,5383546,Focaccine ,12.9,Pane e pasticceria,110
+Pasticceria,5410134,Esselunga 4 Croissant alla marmellata 300 g,3.79,Pane e pasticceria,160
+Insalate,5722897,"Esselunga, insalata di pollo ",13.99,Gastronomia e piatti pronti,60
+Pasta fresca,5527406,"Esselunga Top, lasagne sfoglia rustica 250 g",1.29,Gastronomia e piatti pronti,180
+Pasta fresca,5515756,"Esselunga, pasta sfoglia rettangolare 230 g",1.29,Gastronomia e piatti pronti,130
+Gelati,5731069,"Cucciolone, l'Originale classico 6 pezzi 480 g",3.29,Surgelati e Gelati,80
+Verdura,5386365,"Esselunga Bio, pisellini primizia biologiche surgelati 750 g",2.79,Surgelati e Gelati,70
+Pizze e torte salate,5398136,"Cameo, Pizza Regina Alta Margherita surgelata 370 g",2.45,Surgelati e Gelati,80
+Snack dolci,5389264,"Kinder, Bueno white conf. 3x39 g",1.99,Colazione e Snack,60
+Patatine e Snack salati,5714217,"Popz, Microwave popcorn salati conf. 4x85 g",3.68,Colazione e Snack,170
+Merendine,5513931,"Esselunga, Crostatine alla fragola 8 pezzi 368 g",1.74,Colazione e Snack,170
+Spazzolini,5641023,"Mentadent, Vertical Expert Sensitive spazzolino extra soft",2.49,Igiene Persona,80
+Cura Capelli,5402283,"Sunsilk, Liscio perfetto shampoo 400 ml",3.5,Igiene Persona,170
+Rasatura e depilazione,5543413,"Gillette, Blue3 rasoio 3 lame usa e getta 12 pezzi + 4 omaggio",8.9,Igiene Persona,180
+Detersivi e pulizia casa,5392341,"Ace, candeggina classica 4 l",2.39,Cura casa,70
+Giardinaggio ed insetticidi,5384648,"Vulcano, Spirali Vulcano extra 10 pezzi",1.65,Cura casa,190
+Carta e monouso,5396751,"Foxy, Cartapaglia asciugatutto 2 rotoloni",2.15,Cura casa,160
+Quaderni,5388822,"Monocromo Quaderno maxi formato A4, rigatura 1R senza margini, 100 gr, colori assortiti",2.59,Cancelleria,160
+Penne a Sfera e Gel,5402665,"Staedtler Ball 432 Penne a sfera colorate, 10 pezzi",4.89,Cancelleria,50
+Tempere e Album da disegno,5402618,"Giotto Acquerelli in astuccio con pennello, 12 colori",3.09,Cancelleria,50
+Riso bianco,5400006,"Esselunga, riso Vialone Nano 1 kg",2.49,Pasta  e riso,70
+Altre verdure,5385204,"Cetrioli, ",1.3,Frutta e verdura,80
+Tonno in olio d'oliva,5383211,"Esselunga, tonno all'olio d'oliva conf. 4x160 g",6.99,Pesce e sushi,90
+Semi e condimenti,5421684,"Cerreto, I Semi semi di zucca biologici 200 g",4.48,Frutta e verdura,80
+Semi e condimenti,5382651,"Esselunga, filetto di salmone al Kg",24.15,Frutta e verdura,80
+Maionese,5398830,"Esselunga, maionese 500 ml",1.57,"Condimenti",190
+Aceto e limone,5383776,"Esselunga Bio, aceto di mele biologico 75 cl",2.59,"Condimenti",110
+Zucchero,5381668,"Eridania, zucchero bianco 1 kg",0.89,"Snack e colazione",150
+Sale,5391406,"Esselunga, sale iodato fino 1 kg",0.5,"Condimenti",150
+Farina,5409915,"Esselunga Bio, farina tipo 00 di grano tenero biologica 1 kg",1.09,"Snack e colazione",80
+Acqua naturale,5397815,"Esselunga, Dolomiti naturale conf. 6x1,5 l",1.74,"Bibite, acqua alchol",200
+Olio extra-vergine,5424211,"Esselunga Bio, olio extra vergine di oliva 100% italiano 750 ml",9.49,"Condimenti",170
+Lieviti,5377809,"Lievital, lievito fresco per pizza conf. 2x25 g",0.28,"Latticini",60
+Latte fresco,5574707,"Esselunga, latte fresco intero 100% italiano alta qualitÃ  1 l",1.19,"Latticini",70
+Latte fresco,5574707,"Esselunga, latte fresco intero 100% italiano alta qualitÃ  1 l",1.19,"Latticini",70
+Marmellate,5429355,"Esselunga Bio, confettura extra di albicocche biologica 340 g",2.59,"Colazione e Snack",50
+Altre verdure,5400042,"Sedano verde, ",1.68,Frutta e verdura,120
